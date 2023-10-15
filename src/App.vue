@@ -1,6 +1,7 @@
 <template>
   <div id="nav">
     <router-link to="/"><img style="height:auto; width:4vw" src="./assets/leaguelogo2.png"/></router-link>
+    <router-link to="/app2">App2</router-link>
   </div>
  <!-- <button @click="toggleFullscreen" class="fullscreenbutton">
       <img src="@/assets/fullscreen-icon.png" alt="Fullscreen Icon"  style="min-width: 30px; width:1.75vw; height: auto;"/>
